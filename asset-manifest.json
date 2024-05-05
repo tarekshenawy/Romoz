@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Romoz/static/css/main.0baf64ec.css",
+    "main.js": "/Romoz/static/js/main.ae68ac97.js",
+    "static/js/453.3dfb4c1d.chunk.js": "/Romoz/static/js/453.3dfb4c1d.chunk.js",
+    "static/media/image 5.png": "/Romoz/static/media/image 5.bb1a1c341ad804414fa8.png",
+    "static/media/image 6.png": "/Romoz/static/media/image 6.858b38686942557013f3.png",
+    "static/media/ux-interface.png": "/Romoz/static/media/ux-interface.8959ff3cc3dbe02c6aa1.png",
+    "static/media/logo.svg": "/Romoz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Romoz/index.html",
+    "main.0baf64ec.css.map": "/Romoz/static/css/main.0baf64ec.css.map",
+    "main.ae68ac97.js.map": "/Romoz/static/js/main.ae68ac97.js.map",
+    "453.3dfb4c1d.chunk.js.map": "/Romoz/static/js/453.3dfb4c1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0baf64ec.css",
+    "static/js/main.ae68ac97.js"
+  ]
+}
