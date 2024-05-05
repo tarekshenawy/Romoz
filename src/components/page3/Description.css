@@ -1,0 +1,44 @@
+.img1 {
+    width: 400px;
+    height: 250px;
+ margin-left: 70px;
+ margin-top: 10px;
+}
+.images{
+    position: relative;
+}
+.img2{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top:120px;
+    left: 2px;
+}
+.contents{
+    width: 400px;
+    color: black;
+    position:absolute;
+    right: 0px;
+ 
+  
+}
+h3{
+    text-align: end;
+    background-color: gold;
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+   
+}
+.contents button{
+    width: 120px;
+    background-color: darkmagenta;
+    border: none;
+    padding:5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    color:#fff;
+    margin-top: 10px;
+    cursor: pointer;
+}
