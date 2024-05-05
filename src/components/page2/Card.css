@@ -14,6 +14,7 @@
 }
 .card1 h2{
     margin-bottom: 10px;
+
 }
 .card1 img {
     width: 40px;
@@ -37,4 +38,7 @@
 
 .word{
     text-align: end;
+    padding: 10px;
 }
+
+
