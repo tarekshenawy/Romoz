@@ -1,0 +1,13 @@
+.title{
+  width: 90%;
+margin: 50px auto;
+}
+.title h1{
+    text-align: end;
+}
+.title hr{
+    width: 120px;
+    float: inline-end;
+border: 2px solid darkmagenta ;
+   
+}

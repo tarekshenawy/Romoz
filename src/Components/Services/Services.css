@@ -1,0 +1,61 @@
+.services{
+    width: 100%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.ux{
+    width: 35px;
+    height: 35px;
+  float: right;
+ 
+}
+.clear{
+    clear: both;
+}
+.card{
+    background-color: darkmagenta;
+    padding: 10px 20px;
+    color: #fff;
+    border-radius: 5px;
+    margin: 10px;
+}
+.card h2{
+    text-align: end;
+}
+.card p{
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.card button{
+    width: 100px;
+    padding: 5px 15px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    background-color: gold;
+    color:blueviolet;
+    cursor: pointer;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+@media(min-width:721px) and (max-width:900px){
+    .services{
+        display: grid;
+        grid-template-columns: 1fr 1fr ;
+    
+     
+    }
+
+}
+@media(max-width:720px){
+    .services{
+        display: grid;
+        grid-template-columns: 1fr ;
+    
+     
+    }
+
+}

@@ -1,0 +1,47 @@
+
+.skills{
+    width: 90%;
+    margin: 100px auto;
+    background-color: darkmagenta;
+    padding: 5px 20px;
+    border-radius: 10px; 
+}
+.skills h2{
+    text-align: end;
+   margin: 20px auto;
+    color: #fff;
+}
+.skills p{
+    text-align: center;
+ 
+}
+.Skillscard{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    
+}
+.skillcard1{
+ 
+    background-color: gold;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px 10px;
+
+   
+}
+.skillcard1 h3{
+    margin-bottom: 5px;
+}
+.skillcard1 img{
+    width: 40px;
+    float: right;
+}
+
+@media (max-width:720px){
+    .Skillscard{
+        display: grid;
+        grid-template-columns: 1fr  ;
+        
+    }
+
+}

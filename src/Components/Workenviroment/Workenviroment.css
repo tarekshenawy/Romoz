@@ -1,0 +1,21 @@
+.workenviroment{
+    width: 90%;
+    margin: 80px auto;
+    display: flex;
+    justify-content: space-between;
+  
+   
+}
+.img1 {
+flex-basis: 20%;
+}
+.img1 p{
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+.img1 img{
+    width: 100%;
+    border-radius: 50%;
+}
